@@ -13,7 +13,7 @@ jobs:
     - name: check out repository
       uses: actions/checkout@v3
       with:
-        ref: without_action
+        ref: main
 
     - name: create module directory
       run: mkdir /home/runner/module

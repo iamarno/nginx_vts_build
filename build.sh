@@ -3,7 +3,7 @@
 ###versions
 
 nginx_version="1.23.1"
-module_version="0.2.0"
+module_version="0.2.1"
 
 # build nginx module
 echo "build with nginx version $nginx_version"
